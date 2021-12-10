@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+}
+
+.book{
+    background-color: aquamarine;
+    padding: 10px;
+    margin:10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.addform{
+    height:200px;
+    width:200px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
